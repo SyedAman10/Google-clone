@@ -1,3 +1,30 @@
+# GOOGLE-CLONE
+
+A google clone built with the help of google apis
+
+# Technologies Used
+
+*React
+*APIS
+*Material UI
+
+# Languages Used
+
+*HTML
+*CSS
+*JS
+
+# DEMO
+
+https://61f19204ae70e91001dce79d--tender-thompson-5eff9b.netlify.app/
+
+# Screenshot
+
+![google-clone](https://user-images.githubusercontent.com/76704798/151225810-9626d0f6-e326-4e4e-a32c-a27f5c480945.PNG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
