@@ -1,18 +1,18 @@
 # GOOGLE-CLONE
 
-A google clone built with the help of google apis
+A google clone built with the help of google apis feel free to use it
 
 # Technologies Used
 
-*React
-*APIS
-*Material UI
+* React
+* APIS
+* Material UI
 
 # Languages Used
 
-*HTML
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 
 # DEMO
 
